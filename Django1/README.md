@@ -21,6 +21,9 @@ Time: 2018-10-24
 ![班级管理页面](https://github.com/RonDen/2018--Hadoop-/blob/master/Django1/images/img3.png)
 班级管理页面
 
+功能还十分不完备，有待改进。正好可以学习使用`github`的版本控制功能来管理项目。欢迎大家`fork`，`start`，或者提`issue`。
+
+
 ### About
 
 - 使用框架[Django-2.1.0](https://www.djangoproject.com/)

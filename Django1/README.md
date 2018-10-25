@@ -11,8 +11,15 @@ Time: 2018-10-24
 
 ### 效果预览
 
-![imgag1]('images/img1.png')
+![主页](https://github.com/RonDen/2018--Hadoop-/blob/master/Django1/images/img1.png)
+主页
 
+![学生管理页面](https://github.com/RonDen/2018--Hadoop-/blob/master/Django1/images/img2.png)
+学生管理页面
+
+
+![班级管理页面](https://github.com/RonDen/2018--Hadoop-/blob/master/Django1/images/img3.png)
+班级管理页面
 
 ### About
 

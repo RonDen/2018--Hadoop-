@@ -21,3 +21,9 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 
 
+  ## 2018/10/27周六Hadoop小组第一次见面会议
+  
+  - [ ] 演示在服务器上Hadoop的一些操作。以及`HDFS`的基本操作。
+  - [ ] 学习[github](http://github.com/)的使用。基本操作，`clone`，`push`，`pull`，如何些`README.md`，如何提交`issue`，评论等。每个人都要有`github`的账号，方便以后存放或者下载别人的代码。
+  - [ ] 讨论关于每周工作汇报以及分工讲解的问题。拟定计划如下：前一周确定下周要学习的东西，每周至少有一个同学来讲解这周学习的东西。如`HDFA`的相关命令操作，`M/R`的过程讲解，`Spark`相关内容。这样可以节省大家的时间。
+  - [ ] 学习[IntelliJ Idea](https://www.jetbrains.com/)的使用。创建`Java`项目，使用`MAVEN`管理，基本的快捷键。

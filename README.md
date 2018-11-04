@@ -61,3 +61,16 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 #### 下周安排：
 - 张松鸣讲解Linux基本命令。
 - 宋文宇讲解HDFS基本命令。
+
+
+## 2018/11/04周日Hadoop小组第二次见面会议
+
+- [x] 复习讲解Linux中与文件相关的常用Shell命令。
+- [x] 讲解并演示HDFS文件系统下的常用命令，并与Linux文件系统进行对比。了解了HDFS的基本原理，以及其对小文件存储的弊端。
+- [x] vim编辑器的基本使用以及配置方法。相关技术博客：[一篇简单的vim入门练级教程](https://coolshell.cn/articles/5426.html),[vim配置python教程](https://segmentfault.com/a/1190000003962806)
+
+
+#### 下周安排：
+
+- [ ] 学习Hadoop并行计算框架Mapreduce。
+- [ ] 讨论Hadoop家族相关组件，主要有那些组件，各有什么功能，完成分工学习和讨论。

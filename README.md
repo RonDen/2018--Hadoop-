@@ -34,11 +34,14 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 ### 拟定的每周议题如下（欢迎不同意见修改）：
 
-- Linux基础命令
-- HDFS基础操作
-- Hadoop相关组件介绍
-- MapReduce过程讲解
-- 基于内存的技术Spark简介
+
+- [x] Linux基础命令
+- [x] HDFS基础操作
+- [x] MapReduce并行计算框架简介
+- [ ] HDFS原理及技术细节讲解
+- [ ] 分布式数据库Hase安装和使用
+- [ ] 分布式数据仓库Hive安装和使用
+- [ ] 基于内存的大数据技术Spark的学习
 
 
 ## 一些大数据相关的教程和资源：
@@ -72,5 +75,15 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 #### 下周安排：
 
-- [ ] 学习Hadoop并行计算框架Mapreduce。
+- [x] 学习Hadoop并行计算框架Mapreduce。
 - [ ] 讨论Hadoop家族相关组件，主要有那些组件，各有什么功能，完成分工学习和讨论。
+
+
+
+## 2018/11/11周日Hadoop小组第三次见面会议
+
+- [x] 学习并讲解并行计算框架MapReduce基本知识。
+- [x] 实操演练编写了求每年中最大温度的MapReduce程序。熟悉了使用开发工具Idea开发Hadoop应用程序的基本流程，Maven包管理配置，继承和重写方法的使用。
+
+#### 下周安排：
+深入学习HDFS Hadoop分布式文件系统，需要涉及一些细节和具体操作。

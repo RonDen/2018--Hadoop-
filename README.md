@@ -1,7 +1,12 @@
+**Language :** [![Chinese](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/RonDen/2018--Hadoop-/blob/master/README.md)
+<br>
+<h1 align='center'>2018--Hadoop</h1>
+<div align='center'>
 
-# 2018--Hadoop-
 存放代码资源，交流大数据开发技术。共同成长，一同进步。
 这里可以讨论的不光是Hadoop相关的技术，还有理想...
+</div>
+<br/>
 
 ---
 
@@ -39,7 +44,7 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 - [x] HDFS基础操作
 - [x] MapReduce并行计算框架简介
 - [x] HDFS原理及技术细节讲解
-- [ ] 分布式数据库Hase安装和使用
+- [x] 分布式数据库Hase安装和使用
 - [ ] 分布式数据仓库Hive安装和使用
 - [ ] 基于内存的大数据技术Spark的学习
 
@@ -96,4 +101,9 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 #### 下周安排：
 
-- [ ] 下周考试原因停一次，下下周进入另一个主题非关系型数据库HBase的学习。
+- [x] 下周考试原因停一次，下下周进入另一个主题非关系型数据库HBase的学习。
+
+## 2018/12/02周日Hadoop小组第五次见面会议
+
+- [x] 周雅婷同学讲解HBase，包含基本原理，运行方式和实现原理。强调了三级索引机制，`region server`对`region`的索引，
+`meta table`的索引和`root table`的索引。面向行存储和面向列存储的区别。

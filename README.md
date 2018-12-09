@@ -1,15 +1,18 @@
+
 **Language :** [![Chinese](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/RonDen/2018--Hadoop-/blob/master/README.md)
+
 <br>
-<h1 align='center'>2018--Hadoop</h1>
+<h1 align='center'>2018 Hadoop兴趣学习小组</h1>
 <div align='center'>
 
 存放代码资源，交流大数据开发技术。共同成长，一同进步。
 这里可以讨论的不光是Hadoop相关的技术，还有理想...
 </div>
+
+<img src="https://d1ldz4te4covpm.cloudfront.net/graphics/9781784396688/graphics/3765_02_06.jpg" alt="Hadoop Ecosystem" /> 
 <br/>
 
----
-
+----
 
 ## 提交规则：
 每周（在课设结束之前吧~）至少在这个github项目厂库上提交一个`issue`，作为每周回顾总结，截至时间是每周周日，内容可以包含：
@@ -107,3 +110,16 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 - [x] 周雅婷同学讲解HBase，包含基本原理，运行方式和实现原理。强调了三级索引机制，`region server`对`region`的索引，
 `meta table`的索引和`root table`的索引。面向行存储和面向列存储的区别。
+
+
+
+## 2018/12/09周日Hadoop小组第六次见面会议
+
+- [x] 介绍Hive的由来，数据仓库是什么。Hive的特性与所解决的问题。讲解了Hive的原理与转换成MapReduce任务的过程。
+- 上机演示了Hive的基本操作，建表操作，向Hive中批量加载数据。以及安装的流程和需要注意的问题。安装流程参考[厦门大学Hive安装流程](http://dblab.xmu.edu.cn/blog/1080-2/#more-1080)，但有一些需要注意的地方，一个是`JDBC`驱动的版本和`hive-site.xml`文件的修改。
+- 补上了上周的`HBase`安装和编程实践的演示，具体代码和流程也可以参考[这篇教程](http://dblab.xmu.edu.cn/blog/install-hbase/#more-588)。
+
+#### 下周安排：
+
+- [ ] 罗登讲解内存计算技术Spark，[官网链接](https://spark.apache.org/)。
+- [ ] 宋文宇讲解流计算框架Stom，[官网链接](http://storm.apache.org/)。

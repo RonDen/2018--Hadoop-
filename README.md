@@ -48,8 +48,8 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 - [x] MapReduce并行计算框架简介
 - [x] HDFS原理及技术细节讲解
 - [x] 分布式数据库Hase安装和使用
-- [ ] 分布式数据仓库Hive安装和使用
-- [ ] 基于内存的大数据技术Spark的学习
+- [x] 分布式数据仓库Hive安装和使用
+- [x] 基于内存的大数据技术Spark的学习
 
 
 ## 一些大数据相关的教程和资源：
@@ -112,7 +112,6 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 `meta table`的索引和`root table`的索引。面向行存储和面向列存储的区别。
 
 
-
 ## 2018/12/09周日Hadoop小组第六次见面会议
 
 - [x] 介绍Hive的由来，数据仓库是什么。Hive的特性与所解决的问题。讲解了Hive的原理与转换成MapReduce任务的过程。
@@ -121,5 +120,15 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 
 #### 下周安排：
 
-- [ ] 罗登讲解内存计算技术Spark，[官网链接](https://spark.apache.org/)。
-- [ ] 宋文宇讲解流计算框架Stom，[官网链接](http://storm.apache.org/)。
+- [x] 罗登讲解内存计算技术Spark，[官网链接](https://spark.apache.org/)。
+- [x] 宋文宇讲解流计算框架Stom，[官网链接](http://storm.apache.org/)。
+
+## 2018/12/16周日Hadoop小组第七次见面会议
+
+- [x] 讲解Spark的由来和Spark与Hadoop的区别；了解了基于内存计算模型的概念；详细讲解了Spark RDD的概念，RDD的工作原理以及RDD的优势。
+- [x] 编程实践Spark-Shell以及pyspark，了解了RDD的**转换**操作与**动作**操作，并用Python API实现了加载文件，读取HDFS文件。
+- [x] 简单了解了函数式编程；介绍了通过PyCharm编写Python程序并提交Spark任务的过程。
+- [x] 宋文宇同学介绍了流计算的概念，并讲解了Storm的由来和基本架构。
+
+
+

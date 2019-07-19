@@ -9,7 +9,7 @@
 这里可以讨论的不光是Hadoop相关的技术，还有理想...
 </div>
 
-<img src=img/Hadoop_Ecosystem.jpg" alt="Hadoop Ecosystem" /> 
+<img src="img/Hadoop_Ecosystem.jpg" alt="Hadoop Ecosystem" /> 
 <br/>
 
 ----

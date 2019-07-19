@@ -9,7 +9,7 @@
 这里可以讨论的不光是Hadoop相关的技术，还有理想...
 </div>
 
-<img src="https://d1ldz4te4covpm.cloudfront.net/graphics/9781784396688/graphics/3765_02_06.jpg" alt="Hadoop Ecosystem" /> 
+<img src=img/Hadoop_Ecosystem.jpg" alt="Hadoop Ecosystem" /> 
 <br/>
 
 ----
@@ -130,5 +130,12 @@ Markdown编辑可以使用在线的[作业部落](https://www.zybuluo.com/), 或
 - [x] 简单了解了函数式编程；介绍了通过PyCharm编写Python程序并提交Spark任务的过程。
 - [x] 宋文宇同学介绍了流计算的概念，并讲解了Storm的由来和基本架构。
 
+## 添加大数据平台搭建手册
 
+添加了小学期[大数据课程学习的实验报告](大数据平台搭建实验手册-罗登.pdf)
 
+包含内容如下：
+
+![toc](https://github.com/RonDen/bigdata-experiment-doc/blob/master/img/readme/toc.png)
+
+关于编译该文档的源代码、图片、脚本在[此仓库](https://github.com/RonDen/bigdata-experiment-doc)。
